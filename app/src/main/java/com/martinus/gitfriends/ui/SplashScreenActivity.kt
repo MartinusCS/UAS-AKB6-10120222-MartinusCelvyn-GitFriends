@@ -14,6 +14,7 @@ import com.martinus.gitfriends.databinding.ActivitySplashScreenBinding
 import com.martinus.gitfriends.repository.local.SettingPreference
 import com.martinus.gitfriends.viewmodel.SettingViewModel
 import com.martinus.gitfriends.viewmodel.SettingViewModelFactory
+import com.martinus.gitfriends.walktought.walktroughtActivity
 
 private val Context.dataStore: DataStore<Preferences> by preferencesDataStore(name = "settings")
 

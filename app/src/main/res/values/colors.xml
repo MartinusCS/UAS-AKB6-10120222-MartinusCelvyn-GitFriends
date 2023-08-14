@@ -3,8 +3,9 @@
     <color name="black">#FF000000</color>
     <color name="grey">#686868</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="blue">#47b8d4</color>
-    <color name="sky_blue">#00BFFF</color>
+    <color name="blue">#595f63</color>
+    <color name="sky_blue">#595f63</color>
     <color name="background">#F6F9FF</color>
     <color name="background_night">#202020</color>
+    <color name="gray">#595f63</color>
 </resources>

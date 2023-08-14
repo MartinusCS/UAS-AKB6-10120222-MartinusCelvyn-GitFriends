@@ -3,6 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     style="@style/background"
+    android:background="@drawable/gray"
     android:layout_height="match_parent"
     tools:context=".ui.MainActivity">
 
@@ -45,6 +46,7 @@
         android:layout_height="17dp"
         android:layout_marginTop="16dp"
         android:text="@string/data_not_found"
+        android:textColor="@color/white"
         android:visibility="gone"
         app:layout_constraintEnd_toEndOf="@+id/ivNotFound"
         app:layout_constraintStart_toStartOf="@+id/ivNotFound"

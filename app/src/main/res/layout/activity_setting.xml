@@ -3,6 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     style="@style/background"
+    android:background="@drawable/gray"
     android:layout_height="match_parent"
     tools:context="ui.SettingActivity">
 
@@ -12,6 +13,7 @@
         android:layout_height="wrap_content"
         android:text="@string/dark_mode"
         android:textSize="18sp"
+        android:textColor="@color/white"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
