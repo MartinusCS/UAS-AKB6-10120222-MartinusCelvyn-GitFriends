@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GitHub User App</string>
+    <string name="search_hint">Masukkan username</string>
+    <string name="search">search</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="data_not_found">Data Not Found</string>
+    <string name="location">Location</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="tab_follow">tab Follow</string>
+    <string name="username">username</string>
+    <string name="name_detail">Name Detail</string>
+    <string name="logo_application">logo application</string>
+    <string name="favorite">favorite</string>
+    <string name="setting">setting</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="tab">Tab layout</string>
+</resources>
